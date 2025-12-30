@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Might Not Be",
+  "base_artist": "grentperez",
+  "createdAt": "2025-12-30T03:30:13.020838Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Might Not Be",
+      "artist": "Bobby Valentino",
+      "has_synced": true,
+      "path": "select/01_Might_Not_Be_Bobby_Valentino.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Might Not Be",
+      "artist": "Bobby V.",
+      "has_synced": true,
+      "path": "select/02_Might_Not_Be_Bobby_V..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Might Not Be Right",
+      "artist": "Ruthie Foster",
+      "has_synced": false,
+      "path": "select/03_Might_Not_Be_Right_Ruthie_Foster.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "i might not be happy",
+      "artist": "JonesJrr",
+      "has_synced": true,
+      "path": "select/04_i_might_not_be_happy_JonesJrr.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Might (Not) Be",
+      "artist": "JGivens",
+      "has_synced": true,
+      "path": "select/05_Might_(Not)_Be_JGivens.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You Might Not Be Right",
+      "artist": "Little Kid",
+      "has_synced": false,
+      "path": "select/06_You_Might_Not_Be_Right_Little_Kid.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It Might Not Be Love",
+      "artist": "Lyrics Born feat. Trackademicks, Lateef the Truth Speaker & Joyo Velarde",
+      "has_synced": true,
+      "path": "select/07_It_Might_Not_Be_Love_Lyrics_Born_feat._Trackademicks,_Lateef_the_Truth_Speaker_&_Joyo_Velarde.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It Might Not Be Love",
+      "artist": "Lyrics Born",
+      "has_synced": true,
+      "path": "select/08_It_Might_Not_Be_Love_Lyrics_Born.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Forever Might Not Be Long Enough",
+      "artist": "Live",
+      "has_synced": true,
+      "path": "select/09_Forever_Might_Not_Be_Long_Enough_Live.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It Might Not Be for Me",
+      "artist": "The Bullseyes",
+      "has_synced": true,
+      "path": "select/10_It_Might_Not_Be_for_Me_The_Bullseyes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It Might Not Be for Me (Radio Afera Live!) (Live)",
+      "artist": "The Bullseyes",
+      "has_synced": false,
+      "path": "select/11_It_Might_Not_Be_for_Me_(Radio_Afera_Live!)_(Live)_The_Bullseyes.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Might Not Be",
+      "artist": "grentperez",
+      "has_synced": true,
+      "path": "select/12_Might_Not_Be_grentperez.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Might Not Be",
+      "artist": "grentperez",
+      "has_synced": false,
+      "path": "select/pl_01_Might_Not_Be_grentperez.txt"
+    }
+  ]
+}
